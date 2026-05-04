@@ -1,0 +1,22 @@
+Event,Date,Expected_Category,CAR_30d_%,Volatility_Ratio,ACTUAL_Category
+Iran-Iraq War,1980-09-22,A,,,N/A
+Gulf War,1990-08-02,A,,,N/A
+Bosnia War,1992-04-06,C,,,N/A
+Kosovo War,1999-03-24,C,2.0712,1.366,B
+Afghanistan War (post-9/11),2001-10-07,A,13.7493,1.1163,C
+Iraq War,2003-03-20,A,-6.3828,1.4448,A
+Sri Lanka Civil War (end),2009-05-19,B,-2.7239,0.7565,B
+DRC Conflict,1998-08-02,C,0.501,0.8268,C
+Syria Civil War,2011-03-15,B,6.6665,0.9894,C
+Yemen Civil War,2015-03-26,B,-5.2205,1.4019,A
+Libya Civil War,2014-05-16,B,1.6995,0.9409,C
+Ethiopia-Tigray,2020-11-04,C,8.0018,0.6529,C
+Myanmar Civil War,2021-02-01,C,2.2941,1.5731,B
+Russia-Ukraine War,2022-02-24,A,1.8321,1.701,B
+Kargil War,1999-05-03,A,8.3904,1.0839,C
+Uri Attack & Surgical Strikes,2016-09-18,B,-7.8162,0.9383,A
+Pulwama Attack,2019-02-14,B,9.5141,0.6503,C
+Balakot Airstrike,2019-02-26,B,9.5776,0.6233,C
+Galwan Valley Clash,2020-06-15,B,17.9044,0.3601,C
+India-Pakistan Border Tensions,2021-02-25,C,-11.0962,1.4978,A
+Soleimani Assassination Impact,2020-01-03,B,-1.5817,0.854,C

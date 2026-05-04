@@ -1,0 +1,31 @@
+# Geopolitical Conflict Study - .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# Project-Specific Internal Guides (Excluded as per User Request)
+COMPLETE_PROJECT_GUIDE.md
+DATA_PIPELINE_EXPLAINED.md
+RESULTS_INTERPRETATION.md
+VIVA_DEFENSE_MASTERCLASS.md
+generate_presubmission_report.py
+
+# Temp/Draft Reports
+Pre_Submission_Report.docx
+
+# Data & Output (Optional: Keeping them if small, but often excluded)
+# Raw_Data/
+# Cleaned_Data/
+# Excel_Output/
+# Graphs/
+
+# System
+.DS_Store
+.idea/
+.vscode/

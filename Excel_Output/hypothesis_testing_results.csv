@@ -1,0 +1,6 @@
+Hypothesis,Short_Mean_CAR,Long_Mean_CAR,t_stat,p_value,Significant,n_short,n_long,Oil_Mean_CAR,NonOil_Mean_CAR,n_oil,n_non_oil,India_Mean_CAR,Global_Mean_CAR,n_india,n_global,Mean_Shock,Mean_Sustained,Overreaction_Ratio,n_events,Mean_CAR_30d,Mean_CAR_90d,Mean_Delta
+H1: Duration Independence,3.3704,1.4593,0.4358,0.6703,True,8.0,7.0,,,,,,,,,,,,,,,
+H2: Disruption Dominance,,,-0.4874,0.6331,False,,,1.5375,3.3289,7.0,11.0,,,,,,,,,,,
+H3: India vs Global,,,0.3459,0.738,False,,,,,,,3.5561,2.0444,7.0,11.0,,,,,,,
+H4: Behavioral Overreaction,,,3.4844,0.0028,True,,,,,,,,,,,0.7949,0.2167,9.6988,18.0,,,
+H5: Market Adaptation,,,0.3221,0.7513,True,,,,,,,,,,,,,,18.0,2.6323,3.5281,0.8958
