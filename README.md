@@ -121,5 +121,5 @@ python Python_Code/09_graphs.py
 
 ## 👤 Author
 
-Vaibhav Jain (Roll No: 230697)  
-Financial Markets — Semester 6
+Vaibhav Jain  
+Financial Markets course project (Semester 6)

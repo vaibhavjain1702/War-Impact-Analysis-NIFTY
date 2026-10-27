@@ -12,7 +12,6 @@ venv/
 # Project-Specific Internal Guides (Excluded as per User Request)
 COMPLETE_PROJECT_GUIDE.md
 DATA_PIPELINE_EXPLAINED.md
-RESULTS_INTERPRETATION.md
 VIVA_DEFENSE_MASTERCLASS.md
 generate_presubmission_report.py
 
@@ -29,3 +28,7 @@ Pre_Submission_Report.docx
 .DS_Store
 .idea/
 .vscode/
+VIVA*
+*viva*
+*.zip
+node_modules/
