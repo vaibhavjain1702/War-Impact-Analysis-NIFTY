@@ -47,7 +47,6 @@ Project/
 ├── Graphs/                ← All matplotlib output PNGs (300 DPI)
 ├── Excel_Output/          ← Summary tables, findings, regression results
 ├── PPT/                   ← Presentation file
-├── Final_Report/          ← Word/PDF report
 ├── requirements.txt
 └── README.md
 ```
@@ -116,6 +115,7 @@ python Python_Code/09_graphs.py
 ## 📄 Deliverables
 
 1. **Final Report** — 6 sections (Intro → Lit Review → Methodology → Findings → Discussion → Conclusion)
+   - [Pre-submission report (PDF)](docs/Pre_Submission_Report_FinMarkets_G4.pdf)
 2. **Presentation PPT** — 15 slides
 3. **GitHub Repository** — All code, data, graphs, and documentation
 
